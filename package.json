@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config-opxd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OPXD/eslint-config-opxd.git",
+  "author": "1pxdesign <onepx.de@gmail.com>",
+  "license": "MIT"
+}
